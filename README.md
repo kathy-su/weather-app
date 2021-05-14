@@ -1,4 +1,4 @@
-Weather App
+# Weather App
 
 - Developed an interactive weather web app with React.js
 - Leveraged the Open Weather Map API to make restful API calls, returning the weather data of different cities around the world
