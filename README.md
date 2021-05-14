@@ -7,7 +7,9 @@ Weather App
 
 Click [here](https://weatherdisplay.netlify.app/) for a live link of the Weather Web App!
 
-![image](https://user-images.githubusercontent.com/66896340/118180402-56360780-b3eb-11eb-9817-1dc5660f68db.png)
-![image](https://user-images.githubusercontent.com/66896340/118180588-8f6e7780-b3eb-11eb-80cd-fdf203c41ca2.png)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/66896340/118201572-9eb1ed00-b40c-11eb-8401-cc1905a9e7f2.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/66896340/118180588-8f6e7780-b3eb-11eb-80cd-fdf203c41ca2.png" width="400" /> 
+</p>
 
 Note: this project is based off of [this](https://youtu.be/GuA0_Z1llYU) video, helping me establish the fundamentals of React as well as learning more about React hooks and conditionals
